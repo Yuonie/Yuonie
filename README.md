@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+搭建自己的.net8框架，便于后续的开发.
+
 <!--
 **Yuonie/Yuonie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
