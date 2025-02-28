@@ -1,0 +1,32 @@
+{
+  "SpecificationDocumentSettings": {
+    "DocumentTitle": "Yuonie.NET 通用权限开发平台",
+    "GroupOpenApiInfos": [
+      {
+        "Group": "Default",
+        "Title": "Yuonie.NET 通用权限开发平台",
+        "Description": "让 .NET 开发更简单、更通用、更流行。前后端分离架构(.NET6/Vue3)，开箱即用紧随前沿技术。<br/><a href='https://gitee.com/zuohuaijun/Yuonie.NET/'>https://gitee.com/zuohuaijun/Yuonie.NET</a>",
+        "Version": "1.0.0",
+        "Contact": {
+          "Name": "yuyongjie",
+          "Email": "1748329661@qq.com"
+        }
+      },
+      {
+        "Group": "All Groups",
+        "Title": "所有接口",
+        "Description": "让 .NET 开发更简单、更通用、更流行。前后端分离架构(.NET8/Vue3)，开箱即用紧随前沿技术",
+        "Version": "1.0.0"
+      }
+    ],
+    "DefaultGroupName": "Default", // 默认分组名
+    "DocExpansionState": "List", // List、Full、None
+    "EnableAllGroups": true,
+    "LoginInfo": {
+      "Enabled": true, // 是否开启Swagger登录
+      "CheckUrl": "/api/swagger/checkUrl",
+      "SubmitUrl": "/api/swagger/submitUrl"
+    },
+    "EnumToNumber": true // 枚举类型生成值类型
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "Email": {
+    "Host": "smtp.163.com", // 主机
+    "Port": 465, // 端口 465、994、25
+    "EnableSsl": true, // 启用SSL
+    "DefaultFromEmail": "13081497855@163.com", // 默认发件者邮箱
+    "DefaultToEmail": "1748329661@qq.com", // 默认接收人邮箱 1292138344
+    "UserName": "13081497855@163.com", // 邮箱账号
+    "Password": "XFZVgFMxWfBmi4et", // 邮箱授权码
+    "DefaultFromName": "Yuonie 通用权限开发平台" // 默认邮件标题
+  }
+}

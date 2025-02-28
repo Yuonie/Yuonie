@@ -1,0 +1,14 @@
+{
+  "Cache": {
+    "Prefix": "yuonienet_", // 全局缓存前缀
+    "CacheType": "Redis", // Memory、Redis
+    "Redis": {
+      "UseTimedTask": true,
+      "TimedTaskIndex": 1, // 定时任务的Db
+      "DefaultDatabase": 10, //默认的DbIndex
+      "ConnectionString": "server=127.0.0.1:6379;", //redis数据库连接字符串
+      "Password": "yuonie",
+      "MaxMessageSize": "1048576" // 最大消息大小 默认1024 * 1024
+    }
+  }
+}
